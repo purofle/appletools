@@ -18,3 +18,4 @@ pluginManagement {
 
 rootProject.name = "applehelper"
 include("applehelper-libimobiledevice")
+include("applehelper-gui")
